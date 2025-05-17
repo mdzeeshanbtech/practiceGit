@@ -4,3 +4,11 @@ def sum(a,b):
   
   
 sum(10,15)
+
+def sub(a,b):
+  c = a - b
+  print(c)
+  
+  
+
+sub(10,15)
